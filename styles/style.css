@@ -212,7 +212,9 @@ nav ul li a:hover {
     max-width: 1000px;
     margin: 0 auto;
 }
-
+.seller-container .title-content{
+    color: #2670d1;
+}
 .seller-card-container {
     margin-top: 20px;
     grid-template-columns: repeat(3, 1fr);
